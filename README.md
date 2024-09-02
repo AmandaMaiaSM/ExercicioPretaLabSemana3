@@ -32,6 +32,9 @@ Nesta semana, foram apresentados conceitos de padrões de projeto, como Factory,
 ## Testes Realizados
 
 Testei a API utilizando o Insomnia. Aqui estão os prints dos testes bem-sucedidos:
+- **Rodando API 3333**:
+- ![image](https://github.com/user-attachments/assets/cb11a310-8ec9-4079-a0ae-ef59c561b023)
+
 - **Criação de Postes**:
 - ![image](https://github.com/user-attachments/assets/4f6be255-3257-4a2a-b55a-ed244695aa61)
 - **Listagem de todos Postes**:
