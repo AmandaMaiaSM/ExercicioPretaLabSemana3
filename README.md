@@ -9,7 +9,7 @@ Nesta semana, foram apresentados conceitos de padrões de projeto, como Factory,
 - Criar um texto (POST)
 - Listar todos os textos (GET)
 - Listar um texto específico (GET)
-- Atualizar um texto específico (PUT)
+- Editar um texto específico (PUT)
 - Excluir um texto específico (DELETE)
 
 ## Depedencias 
