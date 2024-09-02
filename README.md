@@ -6,11 +6,11 @@ Nesta semana, foram apresentados conceitos de padrões de projeto, como Factory,
 
 ## Funcionalidades Implementadas
 
-- Criar um texto (POST /texts)
-- Listar todos os textos (GET /texts)
-- Listar um texto específico (GET /text?id={id})
-- Atualizar um texto específico (PUT /text/:id)
-- Excluir um texto específico (DELETE /text/:id)
+- Criar um texto (POST)
+- Listar todos os textos (GET)
+- Listar um texto específico (GET)
+- Atualizar um texto específico (PUT)
+- Excluir um texto específico (DELETE)
 
 ## Depedencias 
 
